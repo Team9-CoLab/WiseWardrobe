@@ -1,0 +1,18 @@
+.additems{
+
+    position: absolute;
+    width: 229px;
+    height: 24px;
+    left: 24px;
+    top: calc(50% - 24px/2 - 298px);
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+    
+    
+}
