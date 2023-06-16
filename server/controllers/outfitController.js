@@ -1,14 +1,15 @@
-const Outfit = require("../model/user");
+const Outfit = require("../models/outfit.js");
 
 const addNewOutfit = async (req, res) => {
   try {
-    const { brand, cloth, season, color, category, size, image } = req.body;
+    const { brand, cloth_name, type, season, color, category, size, image } = req.body;
     console.log(req.body);
 
     //write data into database
     const outfit = new Outfit({
       brand,
-      cloth,
+      cloth_name,
+      type,
       season,
       color,
       category,
@@ -27,7 +28,7 @@ const addNewOutfit = async (req, res) => {
 
 const getAllOutfits = async (req, res) => {
   try {
-    const outfitsData = await User.find({});
+    const outfitsData = await Outfit.find({});
     res.status(200).json({ outfitsData });
   } catch (e) {
     console.log(e);

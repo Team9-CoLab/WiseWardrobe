@@ -1,0 +1,702 @@
+[
+    {
+      "brand": "Nike",
+      "cloth_name": "Black Dress",
+      "type": "Office",
+      "season": "summer",
+      "color": "Black",
+      "category": "dress",
+      "size": "S",
+      "Image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10054821/2019/7/3/db52fd6a-19fc-4add-bc4b-77b8608454d01562138455279-Veni-Vidi-Vici-Women-Black-Bodycon-Dress-3841562138453419-1.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "White Dress",
+      "type": "WorkOut",
+      "season": "winter",
+      "color": "White",
+      "category": "dress",
+      "size": "XL",
+      "Image": "https://rukminim1.flixcart.com/image/612/612/xif0q/dress/e/t/c/s-aa-00190-white-aayu-original-imagmmfxvzmvhyru.jpeg?q=70"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Gray Dress",
+      "type": "Going Out",
+      "season": "rainy",
+      "color": "Gray",
+      "category": "dress",
+      "size": "L",
+      "Image": "https://images.asos-media.com/products/lace-beads-exclusive-wrapped-tulle-mini-dress-in-light-gray/204196618-1-lightgrey?$n_480w$&wid=476&fit=constrain"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Navy blue Dress",
+      "type": "Layers",
+      "season": "summer",
+      "color": "Navy blue",
+      "category": "dress",
+      "size": "L",
+      "Image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7225013/2018/9/25/a6a086c2-2279-47b7-bc19-3718df09b30f1537859451804-20Dresses-Women-Navy-Blue-Solid-Maxi-Dress-2401537859451421-1.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Red Dress",
+      "type": "Casual",
+      "season": "winter",
+      "color": "Red",
+      "category": "dress",
+      "size": "S",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20211215/zzIL/61b90353f997ddf8f151336b/-473Wx593H-463499209-red-MODEL.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Pink Dress",
+      "type": "Office",
+      "season": "rainy",
+      "color": "Pink",
+      "category": "dress",
+      "size": "M",
+      "Image": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300936563LTPINK_1_1024x1024.jpg?v=1681997176"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Blue Dress",
+      "type": "WorkOut",
+      "season": "summer",
+      "color": "Blue",
+      "category": "dress",
+      "size": "S",
+      "Image": "https://i.etsystatic.com/7799304/r/il/f24aef/2105739985/il_570xN.2105739985_1bc7.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Green Dress",
+      "type": "Going Out",
+      "season": "winter",
+      "color": "Green",
+      "category": "dress",
+      "size": "M",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/2/c/s/xxl-new-aline-maxi-dress-for-woman-qena-original-imagg4bsu6m5gsry.jpeg?q=70"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Purple Dress",
+      "type": "Layers",
+      "season": "rainy",
+      "color": "Purple",
+      "category": "dress",
+      "size": "XXL",
+      "Image": "https://www.femella.in/cdn/shop/products/16-10-2021Bay411927.jpg?v=1641972668&width=1445"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Brown Dress",
+      "type": "Casual",
+      "season": "summer",
+      "color": "Brown",
+      "category": "dress",
+      "size": "free size",
+      "Image": "https://i.etsystatic.com/18771955/r/il/09af24/3370416996/il_fullxfull.3370416996_75zs.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Black T-shirt",
+      "type": "Office",
+      "season": "winter",
+      "color": "Black",
+      "category": "t-shirt",
+      "size": "XL",
+      "Image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2107234/2017/11/6/11509972231265-Roadster-Women-Black-Solid-Round-Neck-T-shirt-5631509972231094-1.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "White T-shirt",
+      "type": "WorkOut",
+      "season": "rainy",
+      "color": "White",
+      "category": "t-shirt",
+      "size": "L",
+      "Image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2355195/2022/11/22/ace52485-b210-46f8-a6a5-749e1fb4003e1669097169250-Roadster-Women-White-Cotton-Pure-Cotton-T-shirt-759166909716-1.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Gray T-shirt",
+      "type": "Going Out",
+      "season": "summer",
+      "color": "Gray",
+      "category": "t-shirt",
+      "size": "L",
+      "Image": "https://cdn.shopify.com/s/files/1/0062/7431/8451/products/Melange_Grey_L_Women_Round_M2780_1556719562.jpg?v=1611603525"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Navy blue T-shirt",
+      "type": "Layers",
+      "season": "winter",
+      "color": "Navy blue",
+      "category": "t-shirt",
+      "size": "S",
+      "Image": "http://cdn.shopify.com/s/files/1/0365/5892/9965/products/Navy-blue-plain-t-shirts-for-women-online-in-100_-cotton_-round-neck-and-half-sleeves---MUSELOT.jpg?v=1658090205"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Red T-shirt",
+      "type": "Casual",
+      "season": "rainy",
+      "color": "Red",
+      "category": "t-shirt",
+      "size": "M",
+      "Image": "http://cdn.shopify.com/s/files/1/1650/5551/products/women-s-plain-round-neck-t-shirt-red-women-t-shirt-wolfattire-25869365196.jpg?v=1561036699"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Pink T-shirt",
+      "type": "Office",
+      "season": "summer",
+      "color": "Pink",
+      "category": "t-shirt",
+      "size": "S",
+      "Image": "https://media.istockphoto.com/id/171283591/photo/african-american-woman-smiling-with-hands-in-pockets-isolated.jpg?s=612x612&w=0&k=20&c=9h2vUYJLr6AeLNVHmEtVGMA2Wdxir5FD7ll1HE8_uKI="
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Blue T-shirt",
+      "type": "WorkOut",
+      "season": "winter",
+      "color": "Blue",
+      "category": "t-shirt",
+      "size": "M",
+      "Image": "http://cdn.shopify.com/s/files/1/1650/5551/products/women-s-plain-round-neck-t-shirt-royal-blue-women-t-shirt-wolfattire-25135790092.jpg?v=1561036248"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Green T-shirt",
+      "type": "Going Out",
+      "season": "rainy",
+      "color": "Green",
+      "category": "t-shirt",
+      "size": "S",
+      "Image": "https://images.bewakoof.com/original/dark-forest-green-half-sleeve-t-shirt-237339-1656183788-2.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Purple T-shirt",
+      "type": "Layers",
+      "season": "summer",
+      "color": "Purple",
+      "category": "t-shirt",
+      "size": "M",
+      "Image": "https://customthouse.in/wp-content/uploads/2021/07/womens-purple-t-shirt-scaled.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Brown T-shirt",
+      "type": "Casual",
+      "season": "winter",
+      "color": "Brown",
+      "category": "t-shirt",
+      "size": "XXL",
+      "Image": "https://imagescdn.aeo.in/img/app/product/6/642651-6914683.jpg?w=618&auto=format"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Black Blouse",
+      "type": "Office",
+      "season": "rainy",
+      "color": "Black",
+      "category": "blouse",
+      "size": "XL",
+      "Image": "https://newcdn.kalkifashion.com/media/catalog/product/b/l/black-blouse-in-sequins-fabric-with-strap-sleeves-and-v-neckline-online_-kalki-fashion-m001bldy40y-sg57016_7__1.jpg"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "White Blouse",
+      "type": "WorkOut",
+      "season": "summer",
+      "color": "White",
+      "category": "blouse",
+      "size": "S",
+      "Image": "https://newcdn.kalkifashion.com/media/catalog/product/w/h/white_padded_blouse_with_mirror_work_and_half_sleeves-sg100160_4_.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Gray Blouse",
+      "type": "Going Out",
+      "season": "winter",
+      "color": "Gray",
+      "category": "blouse",
+      "size": "XL",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20220727/Dyb9/62e0f5fbaeb26921afa1e40a/-1117Wx1400H-462456583-grey-MODEL2.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Navy blue Blouse",
+      "type": "Layers",
+      "season": "rainy",
+      "color": "Navy blue",
+      "category": "blouse",
+      "size": "S",
+      "Image": "https://i.pinimg.com/564x/52/56/c4/5256c4ca0712ece7745921f7783bcf22.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Red Blouse",
+      "type": "Casual",
+      "season": "summer",
+      "color": "Red",
+      "category": "blouse",
+      "size": "XL",
+      "Image": "https://newcdn.kalkifashion.com/media/catalog/product/r/e/red-blouse-in-raw-silk-with-resham-and-zardozi-embroidered-floral-jaal-online-kalki-fashion-sg43149_3_.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Pink Blouse",
+      "type": "Office",
+      "season": "winter",
+      "color": "Pink",
+      "category": "blouse",
+      "size": "L",
+      "Image": "https://newcdn.kalkifashion.com/media/catalog/product/r/a/rani_pink_blous-m001blm564y-sg91856_7_.jpg"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Blue Blouse",
+      "type": "WorkOut",
+      "season": "rainy",
+      "color": "Blue",
+      "category": "blouse",
+      "size": "L",
+      "Image": "https://newcdn.kalkifashion.com/media/catalog/product/n/a/navy_blue_blouse_in_velvet_with_halter_straps_and_sweetheart_neckline_online_-_kalki_fashion_-_sg20909_4__4.jpg"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Green Blouse",
+      "type": "Going Out",
+      "season": "summer",
+      "color": "Green",
+      "category": "blouse",
+      "size": "S",
+      "Image": "https://www.rawaazfashion.co.in/wp-content/uploads/2021/12/51759766487_dd242ed7d1_3k-2.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Purple Blouse",
+      "type": "Layers",
+      "season": "winter",
+      "color": "Purple",
+      "category": "blouse",
+      "size": "M",
+      "Image": "https://newcdn.kalkifashion.com/media/catalog/product/l/i/light_purple_blouse_in_organza_with_v_neckline-sg147458_2_.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Brown Blouse",
+      "type": "Casual",
+      "season": "rainy",
+      "color": "Brown",
+      "category": "blouse",
+      "size": "S",
+      "Image": "https://d101ghsnt3o063.cloudfront.net/productimages/FZ-309602012019-Brown-Brocade-Readymade-Blouse.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Black Skirt",
+      "type": "Office",
+      "season": "summer",
+      "color": "Black",
+      "category": "skirt",
+      "size": "M",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230321/fAPS/64196af0f997dde6f41e5ebd/-473Wx593H-465721399-black-MODEL.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "White Skirt",
+      "type": "WorkOut",
+      "season": "winter",
+      "color": "White",
+      "category": "skirt",
+      "size": "XXL",
+      "Image": "https://imgs7.luluandsky.com/catalog/product/8/9/899X23-1273-WHITE_2.jpg"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Gray Skirt",
+      "type": "Going Out",
+      "season": "rainy",
+      "color": "Gray",
+      "category": "skirt",
+      "size": "free size",
+      "Image": "https://media.karousell.com/media/photos/products/2021/6/29/light_gray_tennis_skirt_1624966459_b14e4518.jpg"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Navy blue Skirt",
+      "type": "Layers",
+      "season": "summer",
+      "color": "Navy blue",
+      "category": "skirt",
+      "size": "XL",
+      "Image": "https://image.made-in-china.com/202f0j00iKBWQwvGEgkM/Girl-Plain-Plaid-A-Line-Skater-Tennis-School-Uniform-Navy-Mini-Skirts-with-Lining-Shorts.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Red Skirt",
+      "type": "Casual",
+      "season": "winter",
+      "color": "Red",
+      "category": "skirt",
+      "size": "L",
+      "Image": "https://cdn1.staticans.com/image/data/Vastrado/16-Sep-2021/LH996A_1.jpg?width=1080&height=1440&mode=fill&fill=solid&fill-color=FFFFFF"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Pink Skirt",
+      "type": "Office",
+      "season": "rainy",
+      "color": "Pink",
+      "category": "skirt",
+      "size": "L",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shopsy-skirt/x/i/r/26-1-sadu-pink-pleated-easy-online-hub-women-original-imagge7g7ttbmyud.jpeg?q=70"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Blue Skirt",
+      "type": "WorkOut",
+      "season": "summer",
+      "color": "Blue",
+      "category": "skirt",
+      "size": "S",
+      "Image": "https://i0.wp.com/bellescouture.com/wp-content/uploads/2020/07/Box-Pleated-Navy-Blue-Cotton-Skirt-1.jpg?fit=1500%2C2449&ssl=1"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Green Skirt",
+      "type": "Going Out",
+      "season": "winter",
+      "color": "Green",
+      "category": "skirt",
+      "size": "M",
+      "Image": "https://us.princesspolly.com/cdn/shop/products/Clueless-Mini-Skirt-Green.jpg?v=1644899749&width=767"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Purple Skirt",
+      "type": "Layers",
+      "season": "rainy",
+      "color": "Purple",
+      "category": "skirt",
+      "size": "S",
+      "Image": "https://images.asos-media.com/products/pullbear-high-waisted-pleated-mini-tennis-skirt-in-deep-purple/202509721-1-midblue?$n_640w$&wid=513&fit=constrain"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Brown Skirt",
+      "type": "Casual",
+      "season": "summer",
+      "color": "Brown",
+      "category": "skirt",
+      "size": "M",
+      "Image": "https://imgs7.luluandsky.com/catalog/product/8/9/8907884136066_2_.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Black Jeans",
+      "type": "Office",
+      "season": "winter",
+      "color": "Black",
+      "category": "jeans",
+      "size": "S",
+      "Image": "https://cdn.shopify.com/s/files/1/0556/9826/0107/products/LDNM00020_BLACK_1_650x.jpg?v=1675854253"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "White Jeans",
+      "type": "WorkOut",
+      "season": "rainy",
+      "color": "White",
+      "category": "jeans",
+      "size": "M",
+      "Image": "https://getketchadmin.getketch.com/product/8905040962351/660/TTJN002757_1.JPG"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Gray Jeans",
+      "type": "Going Out",
+      "season": "summer",
+      "color": "Gray",
+      "category": "jeans",
+      "size": "XXL",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/h55/h43/13395938148382/-1117Wx1400H-460377904-grey-MODEL.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Navy blue Jeans",
+      "type": "Layers",
+      "season": "winter",
+      "color": "Navy blue",
+      "category": "jeans",
+      "size": "XL",
+      "Image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/7744523/2018/11/6/acb0ec0f-036d-4a44-b8fc-2165977d1c881541499459066-Heart-of-Darkness-Skinny-Jeans-1501541499458878-1.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Red Jeans",
+      "type": "Casual",
+      "season": "rainy",
+      "color": "Red",
+      "category": "jeans",
+      "size": "S",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20210621/AhYz/60d02d5df997ddb312deb720/-473Wx593H-462433552-red-MODEL.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Pink Jeans",
+      "type": "Office",
+      "season": "summer",
+      "color": "Pink",
+      "category": "jeans",
+      "size": "XL",
+      "Image": "https://imgs7.luluandsky.com/catalog/product/8/9/89WG-10327-ROSE_RED_1.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Blue Jeans",
+      "type": "WorkOut",
+      "season": "winter",
+      "color": "Blue",
+      "category": "jeans",
+      "size": "S",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/h09/hcd/12085139111966/-1117Wx1400H-440794191-mediumblue-MODEL.jpg"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Green Jeans",
+      "type": "Going Out",
+      "season": "rainy",
+      "color": "Green",
+      "category": "jeans",
+      "size": "XL",
+      "Image": "https://imagescdn.planetfashion.in/img/app/product/7/777224-8978168.jpg?auto=format"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Purple Jeans",
+      "type": "Layers",
+      "season": "summer",
+      "color": "Purple",
+      "category": "jeans",
+      "size": "L",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20221117/5cu0/637615c1aeb269659c98c645/-473Wx593H-465297097-purple-MODEL.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Brown Jeans",
+      "type": "Casual",
+      "season": "winter",
+      "color": "Brown",
+      "category": "jeans",
+      "size": "L",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230602/1GGx/6479103842f9e729d70866f5/-473Wx593H-461069353-brown-MODEL.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Black Leggings",
+      "type": "Office",
+      "season": "rainy",
+      "color": "Black",
+      "category": "leggings",
+      "size": "S",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230203/Ezoq/63dce3b0f997dd708e36db43/-1117Wx1400H-441020957-black-MODEL.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "White Leggings",
+      "type": "WorkOut",
+      "season": "summer",
+      "color": "White",
+      "category": "leggings",
+      "size": "M",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230203/3WKG/63dce7e4f997dd708e36fac6/-1117Wx1400H-441020957-white-MODEL.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Gray Leggings",
+      "type": "Going Out",
+      "season": "winter",
+      "color": "Gray",
+      "category": "leggings",
+      "size": "S",
+      "Image": "https://cdn.shopify.com/s/files/1/0598/8158/6848/products/1_3fc276d0-c16f-49a9-a1c2-379f97db886c_1024x1024.jpg?v=1645258822"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Navy blue Leggings",
+      "type": "Layers",
+      "season": "rainy",
+      "color": "Navy blue",
+      "category": "leggings",
+      "size": "M",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20220503/ZO2s/6270af39f997dd03e290330f/-1117Wx1400H-462877068-navy-MODEL.jpg"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Red Leggings",
+      "type": "Casual",
+      "season": "summer",
+      "color": "Red",
+      "category": "leggings",
+      "size": "XXL",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230206/2E6E/63e09f76f997dd708e3a8d5c/-1117Wx1400H-441020957-red-MODEL.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Pink Leggings",
+      "type": "Office",
+      "season": "winter",
+      "color": "Pink",
+      "category": "leggings",
+      "size": "free size",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230203/L7wX/63dce24baeb269c6510d52f8/-1117Wx1400H-441020957-pink-MODEL.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Blue Leggings",
+      "type": "WorkOut",
+      "season": "rainy",
+      "color": "Blue",
+      "category": "leggings",
+      "size": "XL",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5eff2581aeb269317582ffe5/-1117Wx1400H-440951145-blue-MODEL.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Green Leggings",
+      "type": "Going Out",
+      "season": "summer",
+      "color": "Green",
+      "category": "leggings",
+      "size": "L",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230602/Wchw/64793d61d55b7d0c63383b41/-1117Wx1400H-461791504-green-MODEL.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Purple Leggings",
+      "type": "Layers",
+      "season": "winter",
+      "color": "Purple",
+      "category": "leggings",
+      "size": "L",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20220503/87fU/6270af01f997dd03e2902da2/-1117Wx1400H-462814932-purple-MODEL.jpg"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Brown Leggings",
+      "type": "Casual",
+      "season": "rainy",
+      "color": "Brown",
+      "category": "leggings",
+      "size": "S",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20211129/mofI/61a4ec64aeb2690110e137ee/-473Wx593H-441020957-brown-MODEL3.jpg"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Black Blazer",
+      "type": "Office",
+      "season": "summer",
+      "color": "Black",
+      "category": "blazer",
+      "size": "M",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20210605/0wN9/60ba9e1ef997ddb312b6ff41/-473Wx593H-462476306-black-MODEL.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "White Blazer",
+      "type": "WorkOut",
+      "season": "winter",
+      "color": "White",
+      "category": "blazer",
+      "size": "S",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20220207/hULH/62013934aeb26921af8c868c/-1117Wx1400H-463784939-white-MODEL.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Gray Blazer",
+      "type": "Going Out",
+      "season": "rainy",
+      "color": "Gray",
+      "category": "blazer",
+      "size": "M",
+      "Image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/19465606/2022/8/10/dad913cc-8c4f-4025-95d4-ae6c1caf1bc01660138729874VanHeusenGreyBlazer1.jpg"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Navy blue Blazer",
+      "type": "Layers",
+      "season": "summer",
+      "color": "Navy blue",
+      "category": "blazer",
+      "size": "S",
+      "Image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8676567/2019/2/8/d2371eef-f5d7-444b-bd2e-12b2f906acd71549629592991-MANGO-Women-Blazers-1521549629591863-1.jpg"
+    },
+    {
+      "brand": "Girlfriend collective",
+      "cloth_name": "Red Blazer",
+      "type": "Casual",
+      "season": "winter",
+      "color": "Red",
+      "category": "blazer",
+      "size": "M",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230602/BBoU/64791fc142f9e729d70a0147/-473Wx593H-461176096-red-MODEL.jpg"
+    },
+    {
+      "brand": "tradiands",
+      "cloth_name": "Pink Blazer",
+      "type": "Office",
+      "season": "rainy",
+      "color": "Pink",
+      "category": "blazer",
+      "size": "XXL",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20220928/Uysl/63337891aeb269dbb3acd662/-1117Wx1400H-469278678-pink-MODEL.jpg"
+    },
+    {
+      "brand": "amazon essentials",
+      "cloth_name": "Blue Blazer",
+      "type": "WorkOut",
+      "season": "summer",
+      "color": "Blue",
+      "category": "blazer",
+      "size": "XL",
+      "Image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8676567/2019/2/8/d2371eef-f5d7-444b-bd2e-12b2f906acd71549629592991-MANGO-Women-Blazers-1521549629591863-1.jpg"
+    },
+    {
+      "brand": "myntra",
+      "cloth_name": "Green Blazer",
+      "type": "Going Out",
+      "season": "winter",
+      "color": "Green",
+      "category": "blazer",
+      "size": "S",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20230322/fKMN/641a9638711cf97ba7d7e56c/-288Wx360H-465763808-green-MODEL.jpg"
+    },
+    {
+      "brand": "madewell",
+      "cloth_name": "Purple Blazer",
+      "type": "Layers",
+      "season": "rainy",
+      "color": "Purple",
+      "category": "blazer",
+      "size": "XL",
+      "Image": "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/d/i/d/xl-bl-20-mode-connection-original-imaghfdnshmrtafa.jpeg?q=70"
+    },
+    {
+      "brand": "Nike",
+      "cloth_name": "Brown Blazer",
+      "type": "Casual",
+      "season": "summer",
+      "color": "Brown",
+      "category": "blazer",
+      "size": "M",
+      "Image": "https://assets.ajio.com/medias/sys_master/root/20210327/cR5g/605e31cc7cdb8c1f146e4867/-473Wx593H-462204969-brown-MODEL.jpg"
+    }
+  ]

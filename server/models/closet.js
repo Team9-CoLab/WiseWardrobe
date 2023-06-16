@@ -3,14 +3,14 @@ const { Schema } = mongoose;
 
 const ClosetSchema = new Schema({
   brand: { type: String, required: true },
-  cloth: { type: String, required: true },
+  cloth_name: { type: String, required: true },
+  type: { type: String, required: true },
   season: { type: String, required: true },
   color: { type: String, required: true },
   category: { type: String, required: true },
   size: { type: String, required: true },
   image: {
-    data: Buffer,
-    contentType: String,
+    type: [String],
     required: true,
   },
 });
